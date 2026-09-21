@@ -13,7 +13,7 @@
 ## Öne çıkanlar
 
 - **Görünmez mod:** Okundu, oynatıldı, yazıyor, kayıt ve durum görüntüleme bilgilerini kontrol et.
-- **Yerel sohbet kilidi:** Seçili sohbetleri parola ile gizle; sekmeden ayrılınca yeniden kilitle.
+- **Yerel sohbet kilidi:** Kilitli satırı bulanık tut; konuşmayı açınca sohbet ekranındaki parola alanıyla içeriği göster.
 - **Arayüz kontrolü:** Sol menü düğmelerini, Arşivlenenler'i ve Windows indirme bandını ayrı ayrı kaldır.
 - **Arayüz kontrolü:** Windows banner’ı, arşivlenenler ve sol menü düğmeleri için açık/kapatılabilir kontroller.
 - **Panik gizliliği:** Mesaj, isim, profil resmi ve medyayı tek kısayolla bulanıklaştır.
