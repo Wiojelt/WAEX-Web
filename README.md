@@ -15,7 +15,7 @@
 - **Görünmez mod:** Okundu, oynatıldı, yazıyor, kayıt ve durum görüntüleme bilgilerini kontrol et.
 - **Yerel sohbet kilidi:** Seçili sohbetleri parola ile gizle; sekmeden ayrılınca yeniden kilitle.
 - **Arayüz kontrolü:** Sol menü düğmelerini, Arşivlenenler'i ve Windows indirme bandını ayrı ayrı kaldır.
-- **Öğe seçici:** WhatsApp üzerinde istediğin öğeyi tıklayıp kalıcı gizle.
+- **Arayüz kontrolü:** Windows banner’ı, arşivlenenler ve sol menü düğmeleri için açık/kapatılabilir kontroller.
 - **Panik gizliliği:** Mesaj, isim, profil resmi ve medyayı tek kısayolla bulanıklaştır.
 - **Yerel araçlar:** Anti-revoke, zamanlama, hızlı sohbet, medya indirme ve yerel mesaj düzenleme.
 
@@ -37,4 +37,3 @@ WAEX Web şu anda özel dağıtımdadır. Bu depo ürün vitrini ve sürüm duyu
   Made with ♥ by <strong>Wiojelt</strong><br><br>
   <a href="https://github.com/Wiojelt">GitHub</a> · <a href="https://x.com/Wiojelt">X / Twitter</a>
 </div>
-
