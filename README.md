@@ -7,13 +7,13 @@
 
   Yerel gizlilik, seçili sohbet kilidi ve ayrıntılı arayüz kontrolü.
 
-  `v2.1.0` · `Chrome` · `Edge` · `Manifest V3` · `Local-first`
+  `v2.1.1` · `Chrome` · `Edge` · `Manifest V3` · `Local-first`
 </div>
 
 ## Öne çıkanlar
 
 - **Görünmez mod:** Okundu, oynatıldı, yazıyor, kayıt ve durum görüntüleme bilgilerini kontrol et.
-- **Yerel sohbet kilidi:** Kilitli satırı bulanık tut; geçiş perdesiyle içeriği göstermeden sohbet ekranında parola iste.
+- **Yerel sohbet kilidi:** Her sohbet tıklamasını içeriği çizmeden önce denetle; kilitliyse geçiş perdesinin arkasında parola iste.
 - **WhatsApp içi kontroller:** Sohbet başlığından tek tıkla kilit, panik gizliliği ve Arşivlenenler kontrolü.
 - **Arayüz kontrolü:** Sol menü düğmelerini tıklanabilir alanıyla birlikte, Arşivlenenler'i ve Windows bandını ayrı ayrı kaldır.
 - **Panik gizliliği:** Mesaj, isim, profil resmi ve medyayı panelden atanan kısayolla bulanıklaştır.
