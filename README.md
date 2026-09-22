@@ -7,7 +7,7 @@
 
   Yerel gizlilik, seçili sohbet kilidi ve ayrıntılı arayüz kontrolü.
 
-  `v2.1.1` · `Chrome` · `Edge` · `Manifest V3` · `Local-first`
+  `v2.1.2` · `Chrome` · `Edge` · `Manifest V3` · `Local-first`
 </div>
 
 ## Öne çıkanlar
@@ -15,12 +15,16 @@
 - **Görünmez mod:** Okundu, oynatıldı, yazıyor, kayıt ve durum görüntüleme bilgilerini kontrol et.
 - **Yerel sohbet kilidi:** Her sohbet tıklamasını içeriği çizmeden önce denetle; kilitliyse geçiş perdesinin arkasında parola iste.
 - **WhatsApp içi kontroller:** Sohbet başlığından tek tıkla kilit, panik gizliliği ve Arşivlenenler kontrolü.
-- **Arayüz kontrolü:** Sol menü düğmelerini tıklanabilir alanıyla birlikte, Arşivlenenler'i ve Windows bandını ayrı ayrı kaldır.
-- **Panik gizliliği:** Mesaj, isim, profil resmi ve medyayı panelden atanan kısayolla bulanıklaştır.
+- **Arayüz kontrolü:** Sol menü düğmelerini hover alanı ve yerleşim slotuyla birlikte kaldır; kalan ikonları yukarı topla.
+- **Panik gizliliği:** Mesaj, isim, profil resmi ve baş harfli avatarları satırlar arasında taşan blur ile gizle.
 - **Yerel araçlar:** Anti-revoke, zamanlama, medya indirme ve yerel mesaj düzenleme.
 
 <div align="center">
   <img src="assets/quick-actions.png" alt="WhatsApp sohbet başlığındaki WAEX hızlı kontrolleri" width="100%">
+</div>
+
+<div align="center">
+  <img src="assets/privacy-list.png" alt="WAEX sohbet listesi gizlilik görünümü" width="420">
 </div>
 
 <div align="center">
